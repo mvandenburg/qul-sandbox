@@ -25,14 +25,14 @@ It also has a bunch of core packages (i.e. you don't need to install them); a co
 
 Markdown is a lightweight markup language that is really easy to use. It's what this file is written in! Check out [this cheatsheet][3] and you can learn the basics in a few minutes. It's really fun to write Markdown in Atom because of the nice syntax highlighting and the mardown-preview package that let's you see exactly what your output will look like. From the Atom menu go `Packages > Markdown Preview > Toggle Preview`.
 
-## Suggested Exercise
+## Exercise
 
 Here is a little excercise to try all of these things:
 
 1. Clone this repository to your local computer (open a terminal and type `git clone https://github.com/qulib/qul-sandbox.git`)
 2. Create `your-fun-filename.md`
 3. Play around with Markdown using the cheatsheet
-4. Use the github package in Atom to commit your changes
+4. Use the github package in Atom to commit your changes and push them to the repository
 
 <!-- Links -->
 [1]: https://git-scm.com
