@@ -5,7 +5,7 @@ This a place to play around with Github. Here's some fun things to try:
 
 ## Git/Github
 
-First things first! You'll need to install [Git][1]. For Windows it comes with Git Bash which can be a handle alternative to the standard Command Prompt. There is a good [lynda.com course][1a] on Git/Github.
+First things first! You'll need to install [Git][1]. For Windows it comes with Git Bash which can be a handy alternative to the standard Command Prompt. There is a good [lynda.com course][1a] on Git/Github.
 
 ## Atom
 
