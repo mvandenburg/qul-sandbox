@@ -30,9 +30,10 @@ Markdown is a lightweight markup language that is really easy to use. It's what 
 Here is a little excercise to try all of these things:
 
 1. Clone this repository to your local computer (open a terminal and type `git clone https://github.com/qulib/qul-sandbox.git`)
-2. Create `your-fun-filename.md`
+2. Create `your-fun-filename.md`, or take someone else's file and change it! (but not this README one please :) )
 3. Play around with Markdown using the cheatsheet
 4. Use the github package in Atom to commit your changes and push them to the repository
+5. Check out the [commits][4] on github to see the change history.
 
 <!-- Links -->
 [1]: https://git-scm.com
@@ -43,3 +44,4 @@ Here is a little excercise to try all of these things:
 [2c]: https://atom.io/packages/markdown-preview
 [2d]: https://atom.io/packages/github
 [3]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+[4]: https://github.com/qulib/qul-sandbox/commits/master
