@@ -1,3 +1,5 @@
+![github-atom-markdown][hero]
+
 # QUL Sandbox
 This a place to play around with Github. Here's some fun things to try:
 
@@ -45,3 +47,4 @@ Here is a little excercise to try all of these things:
 [2d]: https://atom.io/packages/github
 [3]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 [4]: https://github.com/qulib/qul-sandbox/commits/master
+[hero]: github-atom-markdown.png
