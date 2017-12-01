@@ -28,8 +28,8 @@ Here's a thought in a box.... left the fridge open this am? Or Not?
 
 > Block Quotes are fun..
 
-And so on...
-
+And so on..
+And on so ...
 ***
 
 [logo]: http://d2vhprqki2fot3.cloudfront.net/experience/wp-content/uploads/2010/08/spaghetti-logo-Precision1951-61.jpg "fender logo"
